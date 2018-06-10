@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "id": "vsts-work-sync",
     "publisher": "ZouJian",
-    "version": "1.0.0.14",
+    "version": "1.0.0.22",
     "name": "VSTS Work Sync",
     "description": "A sample Visual Studio Services extension",
     "public": false,
@@ -25,7 +25,10 @@
             }
         }
     ],
-
+    "scopes": [
+        "vso.work",
+        "vso.project"
+    ],
     "files": [
         {
             "path": "css",
