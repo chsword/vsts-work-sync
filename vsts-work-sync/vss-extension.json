@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "id": "vsts-work-sync",
     "publisher": "ZouJian",
-    "version": "1.0.0.22",
+    "version": "1.0.0.32",
     "name": "VSTS Work Sync",
     "description": "A sample Visual Studio Services extension",
     "public": false,
